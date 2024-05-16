@@ -1,5 +1,7 @@
 ### Estudo da efetividade do Duolingo
 
+![Duolingo](https://ziadoua.github.io/m3-Markdown-Badges/badges/Duolingo/duolingo2.svg)
+
 Este repositório contém o código LaTeX usado para gerar o documento "Estudo da efetividade do Duolingo". O documento apresenta um resumo do estudo de Vesselinov e Grego (2012) que avaliou a eficácia do Duolingo no aprendizado de idiomas.
 
 ### Requisitos:
